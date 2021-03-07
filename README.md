@@ -12,7 +12,6 @@ Invite the bot on your server through [this link](https://discord.com/). Type `s
 - `stockr?coin <symbol>` - shows value of a specified coin symbol
 - `stockr?buy <symbol> <amount> <value>` - adds a buy transaction to be tracked
 - `stockr?sell <symbol> <amount> <value>` - adds a sell transaction to be tracked
-
 - `stockr?clear` - clears all tracked user assets
 - `stockr?info` - shows bot general information
 - `stockr?help` - shows bot help information
