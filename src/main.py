@@ -29,6 +29,7 @@ with open('src/credentials.json', 'r') as file:
     client = discord.Client()
 
 
+
 # Stockr event handler
 @client.event
 async def on_ready():
