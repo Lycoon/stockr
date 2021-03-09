@@ -1,7 +1,6 @@
-from binance.client import Client
-import discord
 import json
 import time
+import discord
 
 from utils import error_msg
 import database as db
@@ -25,9 +24,7 @@ COMMANDS = {
 # Loading secret tokens
 with open('src/credentials.json', 'r') as file:
     tokens = json.load(file)
-    api = Client(tokens["binance_api"], tokens["binance_secret"])
     client = discord.Client()
-
 
 
 # Stockr event handler
