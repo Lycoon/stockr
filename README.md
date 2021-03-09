@@ -12,12 +12,11 @@ Invite the bot on your server through [this link](https://discord.com/). Type `s
 - `stockr?coin <symbol>` - shows value of a specified coin symbol
 - `stockr?buy <symbol> <amount> <value>` - adds a buy transaction to be tracked
 - `stockr?sell <symbol> <amount> <value>` - adds a sell transaction to be tracked
-
 - `stockr?clear` - clears all tracked user assets
 - `stockr?info` - shows bot general information
 - `stockr?help` - shows bot help information
 
-If you feel like contacting me for other things than technical, find my email address [here](hugo.bois@epita.fr).
+If you feel like contacting me for other things than technical, find my email address [here](mailto:hugo.bois@epita.fr?subject=[Stockr]%20From%20GitHub).
 
 ## Disclaimer
 *Stockr is not associated with Binance or any of its coins. Its use comes with absolutely no guarantee. No communication or information provided to you by Stockr is intended as, or shall be considered or construed as, investment advice, financial advice, trading advice, or any other sort of advice.*
